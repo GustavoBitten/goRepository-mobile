@@ -102,7 +102,7 @@ export default function App() {
                   // Remember to replace "1" below with repository ID: {`like-button-${repository.id}`}
                   testID={`like-button-${repository.id}`}
                 >
-                  <Text style={styles.buttonText}>Curtir {repository.id}</Text>
+                  <Text style={styles.buttonText}>Curtir</Text>
                 </TouchableOpacity>
 
                 </View>
